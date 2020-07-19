@@ -2,3 +2,15 @@
 
 npm install -g expo-cli
 expo init picpay - blank
+
+yarn add @react-navigation/native - (Adiciona o componente de barra de navegação)
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+yarn add @react-navigation/bottom-tabs
+
+import 'react-native-gesture-handler'; 
+
+yarn add styled-components
+
+ expo install expo-linear-gradient
